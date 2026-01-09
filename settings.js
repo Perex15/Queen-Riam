@@ -3,10 +3,10 @@ const settings = {
   author: 'Hecor Manuel',
   botName: "Queen Riam",
   botOwner: 'Perex', 
-  timezone: 'Africa/Accra',
+  timezone: 'Africa/Lagos',
   prefix: '.',
   ownerNumber: '+2349040166026', 
-  AUTO_STATUS_REACT: 'true',
+  AUTO_STATUS_REACT: 'false',
   AUTO_STATUS_REPLY: 'false',
   AUTO_STATUS_MSG: 'Status Viewed Queen Riam',
 
